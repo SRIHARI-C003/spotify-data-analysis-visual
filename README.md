@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SRIHARI-C003
 - 👀 I’m interested in data analytics and machine learning
-- 🌱 I’m currently learning ECE from panimalar institute of tech
+- 🌱 I’m currently pursuing
+- ECE from panimalar institute of tech
   
 
 <!---
